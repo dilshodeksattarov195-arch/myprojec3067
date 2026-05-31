@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartdrocess",
+        "uuid": 29581215,
+        "checksum": "t9q7uf"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
